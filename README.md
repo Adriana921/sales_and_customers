@@ -42,6 +42,7 @@ The analysis of the project followed a structured multi-phase workflow for clari
    - Calculate recency, frequency, and monetary metrics.
    - Analyze customer lifespan, as active months, and total contribution to revenue.
    - Calculate age from birthdate and group into demographic segments.
+   - **8 results tables** were created with all the information archived in the '02_analysis_results'file, and being the final **Customer Report** named '08_customer_report'.
 
 ## Dashboard
 ![dashboard_sales](https://github.com/user-attachments/assets/8c2c4210-b8c5-4ca8-8834-879f0e2720e0)
