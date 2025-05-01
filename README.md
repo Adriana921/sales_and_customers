@@ -44,6 +44,7 @@ The analysis of the project followed a structured multi-phase workflow for clari
    - Calculate age from birthdate and group into demographic segments.
 
 ## Dashboard
+![dashboard_sales](https://github.com/user-attachments/assets/8c2c4210-b8c5-4ca8-8834-879f0e2720e0)
 
 
 ## Conclusions
