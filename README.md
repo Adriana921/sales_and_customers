@@ -45,7 +45,8 @@ The analysis of the project followed a structured multi-phase workflow for clari
    - **8 results tables** were created with all the information archived in the '02_analysis_results'file, and being the final **Customer Report** named '08_customer_report'.
 
 ## Dashboard
-![dashboard_sales](https://github.com/user-attachments/assets/8c2c4210-b8c5-4ca8-8834-879f0e2720e0)
+![00_sales_dashboard](https://github.com/user-attachments/assets/1ea9b5dd-5b89-4872-a648-e6f4fe32cfd3)
+
 
 
 ## Conclusions
