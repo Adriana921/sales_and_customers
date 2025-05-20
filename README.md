@@ -44,7 +44,23 @@ The analysis of the project followed a structured multi-phase workflow for clari
    - Calculate age from birthdate and group into demographic segments.
    - **8 results tables** were created with all the information archived in the '02_analysis_results'file, and being the final **Customer Report** named '08_customer_report'.
 
+The query analysis as follows:
+
+![1](https://github.com/user-attachments/assets/fae3c058-603a-4ad4-ae0d-0d148ecccc67)
+![2](https://github.com/user-attachments/assets/223cd446-9a66-43c6-aa89-1e588418c53e)
+![3](https://github.com/user-attachments/assets/eb907f1e-afb2-49b9-964a-1b7e012b9f00)
+![4](https://github.com/user-attachments/assets/ae34bb88-6209-441b-8823-cf7baa896324)
+![5](https://github.com/user-attachments/assets/8cc38fd8-7067-49a3-8c84-80673fab4cb3)
+
+
 ## Dashboard
+
+- An interactive dashboard was created in order to **evaluate the data by year and month**, detailing the most important results such as: **Total sales, total items, total orders**.
+- Also charts to visualize the behavior over time of the **total running sales** by month and the **moving average price**.
+- Items are categorized to identify which group had larger movement as well.
+- Products and sales were classified by ranges to understand their behavior and create specific strategies to each one.
+  
+
 ![00_sales_dashboard](https://github.com/user-attachments/assets/1ea9b5dd-5b89-4872-a648-e6f4fe32cfd3)
 
 
